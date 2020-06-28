@@ -1,7 +1,7 @@
 # Arabic to English number
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/iferas93/arabic-to-english-number.svg?style=flat-square)](https://packagist.org/packages/iferas93/arabic-to-english-number)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/iferas93/arabic-to-english-number/run-tests?label=tests)](https://github.com/iferas93/arabic-to-english-number/actions?query=workflow%3ATests)
+![Tests](https://github.com/iferas93/arabic-to-english-number/workflows/Tests/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/iferas93/arabic-to-english-number.svg?style=flat-square)](https://packagist.org/packages/iferas93/arabic-to-english-number)
 
 
